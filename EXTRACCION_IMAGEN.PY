@@ -1,4 +1,4 @@
-
+# este codigo te permite extraer  las imagenes de un documento pdf 
 
 import fitz  # PyMuPDF
 
