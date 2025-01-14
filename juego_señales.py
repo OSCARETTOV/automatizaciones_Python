@@ -1,3 +1,7 @@
+
+# este codigo es un juego de señales de transito el cual consiste en mostrar una imagen y preguntar como se llama la señal, tienes 4 opciones de respuesta
+
+
 import tkinter as tk
 from tkinter import PhotoImage
 
